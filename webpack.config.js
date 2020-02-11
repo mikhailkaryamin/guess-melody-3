@@ -11,6 +11,10 @@ module.exports = {
     open: false,
     inline: false,
     port: 1337,
+<<<<<<< HEAD
+=======
+    historyApiFallback: true,
+>>>>>>> 15097b720522dacef9ee605469853d26177cc928
   },
   module: {
     rules: [

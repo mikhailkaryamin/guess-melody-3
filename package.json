@@ -33,6 +33,11 @@
   "dependencies": {
     "prop-types": "15.7.2",
     "react": "16.12.0",
+<<<<<<< HEAD
     "react-dom": "16.12.0"
+=======
+    "react-dom": "16.12.0",
+    "react-router-dom": "5.1.2"
+>>>>>>> 15097b720522dacef9ee605469853d26177cc928
   }
 }
